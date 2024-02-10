@@ -41,9 +41,3 @@ echo 'Complete'
 
 
 
-
-# get ip of target
-# scan target network for all drives
-# scan for all txt files
-# send all txt files to a folder. zip folder. 
-# send folder via ssh to host machine
